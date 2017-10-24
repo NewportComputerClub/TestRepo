@@ -7,5 +7,4 @@
  *
  */
 public final class file {
-
 }
